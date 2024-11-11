@@ -3,5 +3,7 @@ public class Main {
        int a=1;
        Integer sd=45;
     System.out.println("REMOTE");
+            System.out.println("REMOTE2");
+
     }
 }
